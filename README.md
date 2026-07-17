@@ -16,7 +16,11 @@ A responsive Expense Tracker built using **React.js**, **Bootstrap**, **JavaScri
 
 Example:
 
-![Expense Tracker](./screenshot.png)
+![add-expense](./screenshots/add-expense.png)
+![calculations](./screenshots/calculations.png)
+![expenses-list](./screenshots/expenses-list.png)
+![graph-by-category](./screenshots/graph-by-category.png)
+
 
 ---
 
