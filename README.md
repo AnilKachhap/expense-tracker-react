@@ -1,70 +1,132 @@
-# Getting Started with Create React App
+# 💰 Expense Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A responsive Expense Tracker built using **React.js**, **Bootstrap**, **JavaScript**, and **Recharts**. This application helps users manage daily expenses with a clean dashboard, category-wise charts, search, sorting, dark mode, and local storage support.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Live Demo
 
-### `npm start`
+👉 Coming Soon (Netlify Link)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📸 Project Screenshot
 
-### `npm test`
+> Add your project screenshot here after deployment.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Example:
 
-### `npm run build`
+![Expense Tracker](./screenshot.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## ✨ Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- ✅ Add Expense
+- ✅ Edit Expense
+- ✅ Delete Expense
+- ✅ Search Expense
+- ✅ Category Filter
+- ✅ Amount Sorting
+- ✅ Date Sorting
+- ✅ Dashboard Cards
+- ✅ Pie Chart
+- ✅ Dark Mode
+- ✅ Export CSV
+- ✅ Local Storage
+- ✅ Responsive UI
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🛠 Technologies Used
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- React.js
+- JavaScript (ES6)
+- Bootstrap 5
+- HTML5
+- CSS3
+- Recharts
+- Local Storage
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 📂 Folder Structure
 
-## Learn More
+```
+expense-tracker
+│
+├── public
+│
+├── src
+│   ├── components
+│   │   ├── AddExpense.jsx
+│   │   ├── ExpenseChart.jsx
+│   │   ├── ExpenseList.jsx
+│   │   └── TotalExpense.jsx
+│   │
+│   ├── App.js
+│   ├── App.css
+│   ├── index.js
+│   └── index.css
+│
+├── package.json
+└── README.md
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## ⚙ Installation
 
-### Code Splitting
+Clone the repository
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+git clone https://github.com/AnilKachhap/expense-tracker-react.git
+```
 
-### Analyzing the Bundle Size
+Go to project folder
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+cd expense-tracker-react
+```
 
-### Making a Progressive Web App
+Install dependencies
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```bash
+npm install
+```
 
-### Advanced Configuration
+Run the project
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```bash
+npm start
+```
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 📊 Future Improvements
 
-### `npm run build` fails to minify
+- User Authentication
+- Expense Reports
+- PDF Export
+- Backend Integration
+- Database Support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+## 👨‍💻 Author
+
+**Anil Kachhap**
+
+- MCA Graduate (2025)
+- Full Stack .NET Developer
+- React Developer
+
+GitHub:
+
+https://github.com/AnilKachhap
+
+---
+
+## ⭐ Support
+
+If you like this project, don't forget to ⭐ Star this repository.
