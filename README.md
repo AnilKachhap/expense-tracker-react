@@ -6,7 +6,7 @@ A responsive Expense Tracker built using **React.js**, **Bootstrap**, **JavaScri
 
 ## 🚀 Live Demo
 
-👉 Coming Soon (Netlify Link)
+[(https://strong-unicorn-f44094.netlify.app/)]
 
 ---
 
